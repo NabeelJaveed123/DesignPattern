@@ -3,12 +3,8 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package GOF.StructuralPattern.Proxy.LabTask;
+package Proxy.LabTask;
 
-/**
- *
- * @author FA20-BSE-042
- */
 public class ProtectedExamResults {
 
     private ExamResults examResults;
