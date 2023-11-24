@@ -3,12 +3,9 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package GOF.BehavioralPattern.Command.RefactorGuru.commands;
+package Command.RefactorGuru.commands;
 
-/**
- *
- * @author FA20-BSE-042
- */
+
 import java.util.Stack;
 
 public class CommandHistory {
