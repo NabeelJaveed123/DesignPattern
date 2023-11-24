@@ -3,12 +3,9 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package GOF.BehavioralPattern.Command.SubExpertExample;
+package Command.SubExpertExample;
 
-/**
- *
- * @author FA20-BSE-042
- */
+
 //Invoker
 
 public class RemoteControl {
