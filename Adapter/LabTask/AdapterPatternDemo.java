@@ -2,12 +2,10 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package GOF.StructuralPattern.Adapter.LabTask;
+package Adapter.LabTask;
 
-/**
- *
- * @author shafq
- */
+
+
 public class AdapterPatternDemo {
     public static void main(String[] args) {
         AudioPlayer audioPlayer = new AudioPlayer();
